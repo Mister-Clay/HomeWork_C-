@@ -1,0 +1,15 @@
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\bin\Debug\net6.0\HomeWork_Seminar3.exe
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\bin\Debug\net6.0\HomeWork_Seminar3.deps.json
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\bin\Debug\net6.0\HomeWork_Seminar3.runtimeconfig.json
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\bin\Debug\net6.0\HomeWork_Seminar3.dll
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\bin\Debug\net6.0\HomeWork_Seminar3.pdb
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\HomeWork_Seminar3.csproj.AssemblyReference.cache
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\HomeWork_Seminar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\HomeWork_Seminar3.AssemblyInfoInputs.cache
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\HomeWork_Seminar3.AssemblyInfo.cs
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\HomeWork_Seminar3.csproj.CoreCompileInputs.cache
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\HomeWork_Seminar3.dll
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\refint\HomeWork_Seminar3.dll
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\HomeWork_Seminar3.pdb
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\HomeWork_Seminar3.genruntimeconfig.cache
+C:\Users\FSB\Desktop\stady\StadyC#\HomeWork\HomeWork_1\HomeWork_Seminar3\obj\Debug\net6.0\ref\HomeWork_Seminar3.dll
